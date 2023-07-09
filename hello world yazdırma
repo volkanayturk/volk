@@ -1,0 +1,9 @@
+package test;
+        public class Test {
+            // sınıf olusturmak içim
+            public static void main(String[] args)
+            //main metosuna ihtiyaç duyuyoruz.main yazarsak direk üstteki satır geliyor ide sayseinde
+            {
+                System.out.print("hello world");
+                //sout kısa yolu
+            }
